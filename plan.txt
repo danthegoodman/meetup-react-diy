@@ -1,0 +1,30 @@
+* App Demo
+* Project Structure Tour
+* not-react.html
+* app-not-react.js
+
+
+* Libraries vs Frameworks
+* React Philosophy
+
+
+* real-react-1.html
+* my-react-1.html
+* app-react-1.js
+
+
+* lib-my-react.js
+* 01 - 07
+* run [dead]
+* 08
+* run [ok, dead on button click]
+* 09 - 14
+* run [ok, dead on password success]
+* 15
+* run [it works!!]
+
+
+* app-react-2.js
+* run [ok, no load after screen change]
+* 16 - 17
+* run [it works!!]
