@@ -19,6 +19,11 @@ function loadDb(done) {
       return;
     }
 
+    // Empty file
+    if(!content) {
+      return [];
+    }
+
     var jsonData;
     try {
       jsonData = JSON.parse(content);
